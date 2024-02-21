@@ -1,0 +1,1 @@
+start cmd /k  "   python yqskbgauto.py   "
